@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: blueviolet
+}
+h1{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, seri;
+    align-items: center;
+    text-align: center;
+    color: black;
+    background: linear-gradient(blue);
+}
+h1{
+    position: absolute;
+    top: 30%;
+    left: 18%;
+    right: 18%;
+    padding: 6px;
+    width: 65%;
+}
+button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 10px;
+    background: blueviolet;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+button{
+    border-style: absolute;
+}
